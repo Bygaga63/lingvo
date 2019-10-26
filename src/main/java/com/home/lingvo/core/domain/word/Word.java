@@ -8,6 +8,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Word {
-    private  Long id;
-    private  String value;
+    private Long id;
+    private String value;
 }
